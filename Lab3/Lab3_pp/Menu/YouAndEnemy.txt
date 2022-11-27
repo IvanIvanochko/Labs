@@ -1,0 +1,9 @@
+You(left)
+Health:
+Stamina:
+Damage:
+
+Enemy(right)
+Health:
+Stamina:
+Damage:
